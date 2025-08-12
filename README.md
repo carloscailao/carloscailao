@@ -1,5 +1,6 @@
 # 💫 About Me:
 BS Computer Science Major in Software Technology at De La Salle University Manila
+
 The LaSallian Assistant Editor for Intermedia
 
 ## 🌐 Socials:
