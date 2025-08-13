@@ -1,17 +1,20 @@
 # 💫 About Me
-Third Year BS Computer Science Major in Software Technology Student at De La Salle University Manila. 
+Third Year BS Computer Science Major in Software Technology Student at De La Salle University Manila.  
 
-Assistant Editor for Intermedia in The LaSallian.
+Assistant Editor for Intermedia in The LaSallian.  
 
-Member of DLSU Center for Language Technologies.
+Member of DLSU Center for Language Technologies.  
 
-With a passion for human-centered, ethical, and life-improving technology.
+With a passion for human-centered, ethical, and life-improving technology.  
+
+## 📂 Main Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=web&logoColor=white)](https://crlsaouis-playground.webflow.io/) 
+[![CV](https://img.shields.io/badge/CV-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](CarlosCailaoCV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-luis-cailao-800374318)  
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=web&logoColor=white)](https://crlsaouis-playground.webflow.io/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cailaocarlos) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crlsaoui) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-luis-cailao-800374318) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@carloscailao6098) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carloscailao) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carloscailao@yahoo.com)
