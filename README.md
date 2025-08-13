@@ -1,11 +1,11 @@
 # 💫 About Me
-BS Computer Science Major in Software Technology at De La Salle University Manila
+Third Year BS Computer Science Major in Software Technology Student at De La Salle University Manila. 
 
-The LaSallian Assistant Editor for Intermedia
+Assistant Editor for Intermedia in The LaSallian.
 
-Member of DLSU Center for Language Technologies
+Member of DLSU Center for Language Technologies.
 
-Software Engineer, Student Journalist, with a passion for human-centered, ethical, and life-improving technology
+Software Engineer, Student Journalist, with a passion for human-centered, ethical, and life-improving technology.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cailaocarlos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crlsaoui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-luis-cailao-800374318) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@carloscailao6098) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carloscailao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carloscailao@yahoo.com)
