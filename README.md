@@ -9,7 +9,7 @@ With a passion for human-centered, ethical, and life-improving technology.
 
 ## 📂 Main Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=web&logoColor=white)](https://crlsaouis-playground.webflow.io/) 
-[![CV](https://img.shields.io/badge/CV-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](CarlosCailaoCV.pdf)
+[![CV](https://img.shields.io/badge/CV-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](https://carloscailao.github.io/carloscailao/CarlosCailaoCV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-luis-cailao-800374318)  
 
 ## 🌐 Socials
