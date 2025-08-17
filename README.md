@@ -1,7 +1,7 @@
 # 💫 About Me
 Third Year BS Computer Science Major in Software Technology Student at De La Salle University Manila.  
 
-Assistant Editor for Intermedia in The LaSallian.  
+The LaSallian Intermedia Assistant Editor.  
 
 Member of DLSU Center for Language Technologies.  
 
