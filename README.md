@@ -3,7 +3,7 @@ Third Year BS Computer Science Major in Software Technology Student at De La Sal
 
 The LaSallian Intermedia Assistant Editor.  
 
-Member of DLSU Center for Language Technologies.  
+DLSU Center for Language Technologies Member.  
 
 With a passion for human-centered, ethical, and life-improving technology.  
 
